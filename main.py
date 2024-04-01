@@ -44,5 +44,4 @@ def submit(subject, chapter):
         return render_template('index.html', userAnswer=user_answer, correctAnswer=correct_answer, subject=subject, chapter=chapter, question=question)
 
 
-if __name__ == '__main__':
-    app.run(debug=False)
+
