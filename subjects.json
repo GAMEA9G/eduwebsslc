@@ -1,18 +1,18 @@
 {
     "subjects": {
         "SS1": {
-            "Chapter1": [
+            "Chapter1-American-Revolution": [
                 {
-                    "question": "What is meant by Revolution?",
-                    "answer": "Struggles to change oppressive system make new ones that respect freedom and rights."
+                    "question": "What is Revolution?",
+                    "answer": "Struggle to change oppressive system for freedom and rights."
                 },
                 {
                     "question": "What are the features of Renaissance?",
                     "answer": "Humanism, scientific temper, criticism, inquiry, Enlightenment birth, questioning of irrational beliefs, propagation of freedom, democracy, equality, nationalism, and encouragement of protests against autocratic systems."
                 },
                 {
-                    "question": "What meant by Enlightenment?",
-                    "answer": "intellectual and cultural movement.Give importance to reasoning and propagated freedom, democracy, equality ,nationalism."
+                    "question": "What is Enlightenment?",
+                    "answer": "Intellectual and cultural movement emphasizing reasoning and advocating freedom, democracy, equality, and nationalism."
                 },
                 {
                     "question": "How did the British treat the American colonies?",
@@ -25,7 +25,6 @@
                 {
                     "question": "What products from the colonies were restricted to export only to England?",
                     "answer": "Sugar, wool, cotton, tobacco, etc."
-
                 },
                 {
                     "question": "What requirement did British impose on legal documents and newspapers?",
@@ -63,11 +62,9 @@
                     "question": "who was the first American president",
                     "answer": "Jeorge washington"
                 },
-
                 {
-                    "question": "What were some mercantilist laws imposed on the colonies?",
-                    "answer": "Restrictions such as goods to and from colonies being transported only in British ships or those built in British colonies, and products like sugar, wool, cotton, tobacco, etc., being allowed for export only to England."
-
+                    "question": "What restrictions did mercantilist laws impose on colonies?",
+                    "answer": "Goods transported only in British ships, limited export destinations."
                 },
                 {
                     "question": "What requirement did British impose on legal documents and newspapers?",
@@ -104,10 +101,33 @@
                 {
                     "question": "who was the first American president",
                     "answer": "Jeorge washington"
-                }, 
+                },
                 {
-                    "question": "What were the circumstances, causes, and background of the American Revolution?",
-                    "answer": "European migration to North America to exploit resources, the establishment of thirteen colonies by England, British exploitation of the colonies as centres for raw materials and markets, implementation of exploitative laws under Mercantilism, and influence from thinkers such as John Locke and Thomas Paine who stimulated resistance against British laws."
+                    "question": "What led to the American Revolution?",
+                    "answer": "Establishment of 13 colonies, exploitation for resources, oppressive laws."
+                },
+                {
+                    "question": "What global effects did the American War of Independence have?",
+                    "answer": "It inspired worldwide freedom struggles and revolutions."
+                },
+                {
+                    "question": "What governmental ideas emerged from the American War of Independence?",
+                    "answer": "It introduced republican government and initiated the first written constitution."
+                },
+                {
+                    "question": "How did the American War of Independence shape government structure?",
+                    "answer": "It led to the development of a federal system,"
+                },
+                {
+                    "question": "How did the American War of Independence shape government structure?",
+                    "answer": "It led to the development of a federal system,"
+                }
+                
+            ],
+            "Chapter1-French-Revolution": [
+                {
+                    "question": "How did the American War of Independence shape government structure?",
+                    "answer": "It led to the development of a federal system,"
                 }
             ]
         },
