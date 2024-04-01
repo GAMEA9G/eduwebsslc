@@ -1426,3 +1426,88 @@ INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:37:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:37:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:37:38] "[32mGET /SS1/Chapter1-American-Revolution HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:37:38] "GET /SS1/Chapter1-American-Revolution/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:38:22] "POST /SS1/Chapter1-American-Revolution/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:38:26] "GET /SS1/Chapter1-American-Revolution/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:39:22] "POST /SS1/Chapter1-American-Revolution/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 15:39:26] "GET /SS1/Chapter1-American-Revolution/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:36:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:36:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:36:55] "[32mGET /biology/Chapter1-stimuli HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:36:55] "GET /biology/Chapter1-stimuli/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:37:56] "GET /biology/Chapter1-stimuli/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:38:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:38:11] "GET /biology/Chapter1-stimuli/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:38:19] "POST /biology/Chapter1-stimuli/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:38:23] "GET /biology/Chapter1-stimuli/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:38:46] "POST /biology/Chapter1-stimuli/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:38:50] "GET /biology/Chapter1-stimuli/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:02] "POST /biology/Chapter1-stimuli/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:06] "GET /biology/Chapter1-stimuli/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:14] "[32mGET /biology/Chapter1-neuron HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:14] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:22] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:26] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:40] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:44] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:49] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:39:54] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:40:19] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:40:23] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:40:45] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:40:49] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:40:54] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:40:58] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:41:18] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:41:22] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:41:32] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:41:36] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:42:37] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:42:41] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:42:47] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:42:51] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:43:22] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:43:27] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:43:59] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:03] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:08] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:12] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:14] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:18] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:21] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:25] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:28] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:32] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:35] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:39] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:41] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:42] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:46] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:50] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:55] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:44:59] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:45:02] "POST /biology/Chapter1-neuron/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:45:06] "GET /biology/Chapter1-neuron/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:45:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:45:40] "[32mGET /biology/Chapter1-Brain HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:45:40] "GET /biology/Chapter1-Brain/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:45:59] "POST /biology/Chapter1-Brain/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:46:03] "GET /biology/Chapter1-Brain/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:46:22] "POST /biology/Chapter1-Brain/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 17:46:26] "GET /biology/Chapter1-Brain/ HTTP/1.1" 200 -
