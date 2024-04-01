@@ -4,27 +4,68 @@
             "Chapter1": [
                 {
                     "question": "What is meant by Revolution?",
-                    "answer": "Struggles tried to change the system that denied freedom and rights and to establish a new one"
+                    "answer": "Struggles to change oppressive system make new ones that respect freedom and rights."
                 },
                 {
-                    "question": "What are the Features of Renaissance?",
-                    "answer": "Renaissance stimulated Humanism, Scientific temper, Spirit of criticism, Spirit of inquiry and gave birth to Enlightenment. It motivated the people to question irrational beliefs & traditions. It propagated the ideas like freedom, democracy, equality & nationalism. It encouraged the people to protest against the autocratic system."
+                    "question": "What are the features of Renaissance?",
+                    "answer": "Humanism, scientific temper, criticism, inquiry, Enlightenment birth, questioning of irrational beliefs, propagation of freedom, democracy, equality, nationalism, and encouragement of protests against autocratic systems."
                 },
                 {
                     "question": "What meant by Enlightenment?",
-                    "answer": "It was an intellectual and cultural movement. The thinkers of this movement gave importance to reasoning and opined that society is always progressing. The thinkers of this movement propagated the ideas like freedom, democracy, equality and nationalism."
+                    "answer": "intellectual and cultural movement.Give importance to reasoning and propagated freedom, democracy, equality ,nationalism."
                 },
                 {
                     "question": "How did the British treat the American colonies?",
-                    "answer": "The British treated the colonies as centres for collecting raw materials for their industry. They considered the colonies as a market for selling their products."
+                    "answer": "As centres for collecting raw materials for their industry. considered them as a market for selling their products."
                 },
                 {
                     "question": "What is Mercantilism?",
                     "answer": "Mercantilism is the policy implemented by the British merchants with the help of their motherland in the American colonies."
                 },
                 {
-                    "question": "Which laws were implemented in the British colonies as a part of Mercantilism?",
-                    "answer": "The laws implemented in the British colonies as part of Mercantilism included: 1. Goods to and from the colonies must be carried only in British ships. 2. Products of the colonies could only be exported to England. 3. British stamp must be affixed on all legal documents, newspapers, licenses, etc. 4. Colonies must provide food and quarters for British troops. 5. Import tax must be paid for certain goods."
+                    "question": "What products from the colonies were restricted to export only to England?",
+                    "answer": "Sugar, wool, cotton, tobacco, etc."
+                },
+                {
+                    "question": "What requirement did British impose on legal documents and newspapers?",
+                    "answer": "British stamp must be affixed."
+                },
+                {
+                    "question": "What obligation did colonies have towards British troops?",
+                    "answer": "Provide food and quarters."
+                },
+                {
+                    "question": "Everyone has some fundamental rights. no government has right to suspend them who said it",
+                    "answer": "John locke"
+                },
+                {
+                    "question": "There is something absurd , in supposing a continent be perpetually governed by foreign power",
+                    "answer": "Thomas paine"
+                },
+                {
+                    "question": "First Continental Congress",
+                    "answer": "1774 philadelphia"
+                },
+                {
+                    "question": "Second Continental Congress",
+                    "answer": "1775 philadelphia"
+                },
+                {
+                    "question": "Declaration of independence",
+                    "answer": "4 july 1776"
+                },
+                {
+                    "question": "who declared independence in",
+                    "answer": "Thomas Jefferson and Benjamin Franklin in Treaty of Paris"
+                },
+                {
+                    "question": "who was the first American president",
+                    "answer": "Jeorge washington"
+                },
+
+                {
+                    "question": "What were some mercantilist laws imposed on the colonies?",
+                    "answer": "Restrictions such as goods to and from colonies being transported only in British ships or those built in British colonies, and products like sugar, wool, cotton, tobacco, etc., being allowed for export only to England."
                 },
                 {
                     "question": "What were the circumstances, causes, and background of the American Revolution?",
@@ -210,7 +251,6 @@
                     "question": "What is the function of sensory neurons?",
                     "answer": "Carry impulses to the brain and spinal cord."
                 },
-                
                 {
                     "question": "What are the types of nerves based on their composition?",
                     "answer": "Sensory nerve, Motor nerve, Mixed nerve"
@@ -407,8 +447,6 @@
                     "question": "What are the two divisions of the autonomous nervous system?",
                     "answer": "Sympathetic system and parasympathetic system."
                 },
-                
-                    
                 {
                     "question": "What does the sympathetic system do during emergency situations?",
                     "answer": "Increases heart rate, dilates pupils, and inhibits digestion."
@@ -417,8 +455,6 @@
                     "question": "What does the parasympathetic system do to restore the body after an emergency?",
                     "answer": "Slows heart rate, constricts pupils, and promotes digestion."
                 }
-                    
-                
             ]
         }
     }
