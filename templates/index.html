@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212; /* Dark background color */
+            color: #fff; /* Text color */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 100vh;
+        }
+        header {
+            width: 100%;
+            background-color: #333;
+            padding: 20px;
+            text-align: center;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header h1 {
+            color: #00ff80;
+            margin: 0;
+            vertical-align: top;
+        }
+        .container {
+            max-width: 600px;
+            padding: 40px;
+            border-radius: 10px;
+            background-color: #333; /* Dark container background color */
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        h2 {
+            color: #00ff80; /* Header text color */
+            text-align: center;
+            margin-top: 20px;
+        }
+        p {
+            color: #fff; /* Paragraph text color */
+        }
+        label {
+            color: #fff; /* Label text color */
+        }
+        input[type="text"] {
+            width: calc(100% - 140px); /* Adjusted width */
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #777;
+            border-radius: 5px;
+            background-color: #444; /* Dark input background color */
+            color: #fff; /* Input text color */
+            display: inline-block;
+            vertical-align: top;
+        }
+        button[type="submit"] {
+            padding: 12px 20px; /* Smaller padding */
+            background-color: #007bff; /* Button background color */
+            color: #fff; /* Button text color */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            margin-left: 20px; /* Margin to separate from input */
+            transition: background-color 0.3s;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3; /* Button hover background color */
+        }
+        .home-btn {
+            padding: 10px 20px;
+            background-color: #007bff; /* Button background color */
+            color: #fff; /* Button text color */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+        .home-btn:hover {
+            background-color: #0056b3; /* Button hover background color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="/" class="home-btn">Home</a>
+        <h1>Question</h1>
+        <div></div> <!-- Empty div for spacing -->
+    </header>
+    <div class="container">
+        <h2>Subject: {{ subject }}</h2>
+        <h2>Chapter: {{ chapter }}</h2>
+        <p>Question: {{ question.question }}</p>
+        
+        <form id="answerForm" action="/{{ subject }}/{{ chapter }}/submit" method="post">
+            <input type="text" id="answerInput" name="answerInput" placeholder="Your answer...">
+            <input type="hidden" name="correctAnswer" value="{{ correctAnswer }}">
+            <input type="hidden" name="question" value="{{ question }}">
+            <button type="submit">Submit</button>
+        </form>
+
+        {% if userAnswer %}
+        <p>Your Answer: {{ userAnswer }}</p>
+        <p>Correct Answer: {{ correctAnswer }}</p>
+        <script>
+            // Function to redirect to /subject/chapter after 5 seconds
+            setTimeout(function() {
+                window.location.href = "/{{ subject }}/{{ chapter }}";
+            }, 4000); // 5000 milliseconds = 5 seconds
+        </script>
+        {% endif %}
+    </div>
+</body>
+</html>

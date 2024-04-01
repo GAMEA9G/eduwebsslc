@@ -1,0 +1,1428 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:25:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:25:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:25:25] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:25:25] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:25:25] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:25:25] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:30:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:30:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:30:45] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:30:46] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:30:46] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:30:46] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:34:30] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:34:32] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:34:46] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:35:06] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:36:14] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:36:20] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:36:21] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:36:24] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:36:28] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:41] "[35m[1mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:42] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:42] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:42] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:42] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:49] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:51] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:53] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:37:57] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:38:09] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+ERROR:root:Failed to save user's answer.
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:08] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:13] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:14] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:18] "[35m[1mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:18] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:18] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:18] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:18] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:42:58] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred while saving questions data to JSON file: keys must be str, int, float, bool or None, not tuple
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:00] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:02] "[35m[1mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:03] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:03] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:03] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:56] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:56] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:56] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:56] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:43:56] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:47:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:47:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:47:29] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:47:29] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:47:29] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:47:29] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:48:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:48:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:48:48] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:48:48] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:48:48] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:48:48] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:49:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:49:12] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:49:12] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:49:12] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:49:12] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:02] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:03] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:04] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:04] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:04] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:13] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:13] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:13] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:50:13] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:51:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:51:24] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:51:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:51:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:51:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:54:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:54:07] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:54:07] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:54:07] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:54:07] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:56:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:56:31] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:56:31] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:56:31] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:56:31] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:58:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:58:53] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:58:53] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:58:53] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 08:58:53] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:00:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:00:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:00:19] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:00:20] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:00:20] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:00:20] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:02:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:02:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:02:54] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:02:54] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:02:54] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:02:54] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:03:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:03:43] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:03:43] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:03:43] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:03:43] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:04:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:04:09] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:04:09] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:04:10] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:04:10] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:06:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:06:20] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:06:20] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:06:20] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:06:20] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:07:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:07:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:07:24] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:07:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:07:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:07:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:15:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:15:02] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:15:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:15:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:15:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:16:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:16:49] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:16:49] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:16:49] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:16:49] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:17:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:17:48] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:17:49] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:17:49] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:17:49] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:20:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:20:24] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:20:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:20:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:20:24] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:22:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:22:23] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:24:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:24:18] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:24:18] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:24:18] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:24:18] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:25:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:25:31] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:25:31] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:25:31] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:25:31] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:30:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:30:45] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:30:45] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:30:45] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:30:45] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:31:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:31:21] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:31:21] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:31:21] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:31:21] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:02] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:02] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:26] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:26] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:26] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:32:27] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:14] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:14] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:14] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:14] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:14] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:33] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:33] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:33] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:33] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:45] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:45] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:45] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:33:45] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:41:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:41:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:41:45] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:41:47] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:41:51] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:41:54] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:42:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:42:13] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:45:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:45:43] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:45:50] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:45:55] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:45:58] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:46:33] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:46:38] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:46:41] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:38] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:42] "[35m[1mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:43] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:43] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:43] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 09:52:43] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:01:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:01:19] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:01:26] "[35m[1mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:01:26] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:01:26] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:01:26] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:02:15] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:02:15] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:02:19] "[35m[1mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:02:19] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:02:19] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:02:19] "[36mGET /SS1/Chapter1/submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:04:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:04:36] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:04:40] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:16] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:20] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:23] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:26] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:31] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:07:33] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:08:17] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:08:20] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:08:24] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:08:27] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:09:49] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:09:52] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:09:54] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:09:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:02] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:06] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:38] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:42] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:48] "[33mGET /SS1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:55] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:10:58] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:11:04] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:32] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:32] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:35] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:36] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:39] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:13:39] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:18:19] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:18:23] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:18:28] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:18:33] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:18:39] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:16] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:21] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:33] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:39] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:51] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:20:57] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:03] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:09] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:15] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:21] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:32] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:38] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:48] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:52] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:21:57] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:02] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:07] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:23] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:23] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:33] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:36] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:42] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:45] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:50] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:22:55] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:00] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:18] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:24] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:30] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:36] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:42] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:47] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:53] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:23:59] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:05] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:23] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:29] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:35] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:39] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:44] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:49] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:24:54] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:00] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:05] "[35m[1mGET /SS1/Chapter1/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:05] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:05] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:05] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:05] "[36mGET /SS1/Chapter1/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:14] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:19] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:24] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:27] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:32] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:37] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:47] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:53] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:25:59] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:05] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:23] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:28] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:31] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:39] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:44] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:50] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:26:55] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:00] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:05] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:10] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:15] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:20] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:29] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:32] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:34] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:27:39] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:28:51] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:29:00] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:29:05] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:30:32] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:30:36] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:30:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:32:20] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:33:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:33:13] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:33:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:33:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:33:22] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:34:14] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:38:43] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:38:49] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:38:54] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:40:58] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:41:01] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:41:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:49:02] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:49:06] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:49:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:51:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:51:09] "[33mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:51:20] "[33mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:53:14] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:53:18] "[33mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:53:54] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:53:57] "[33mPOST /SS1/Chapter1/submit HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:57:53] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:11] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:16] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:39] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:42] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:47] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:52] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 10:58:57] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:13] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:34] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:06:56] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:07:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:07:03] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:08:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:08:22] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:08:23] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:08:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:08:31] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:09:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:09:42] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:09:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:14:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:01] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:18] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:19] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:19] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:19] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:15:26] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:17:42] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:17:54] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:00] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:04] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:21] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:26] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:42] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:18:47] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:19:17] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:19:22] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:19:38] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:19:43] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:19:55] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:20:01] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:20:21] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:20:26] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:20:36] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:20:51] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:20:56] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:21:08] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:21:13] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:21:42] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:21:47] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:22:18] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:22:23] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:22:36] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:22:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:22:57] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:02] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:13] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:18] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:29] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:34] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:50] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:23:55] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:07] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:13] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:21] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:26] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:36] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:52] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:24:58] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:25:07] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:25:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:38:38] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:38:58] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:39:04] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:39:20] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:39:25] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:39:40] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:39:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:40:03] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:40:08] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:51:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:51:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:52:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:52:43] "[32mGET /Biology/Chapter1 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:52:43] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:52:48] "[32mGET /Biology/Chapter2 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:52:48] "GET /Biology/Chapter2/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:56:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:56:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:56:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:56:42] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:56:52] "GET /Biology/Chapter2/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:57:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:57:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:57:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:58:17] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:58:20] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:58:25] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 11:58:30] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:03:55] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:04:01] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:15:28] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:15:39] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:15:45] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:15:55] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:16:00] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:16:11] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:16:17] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:16:39] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:16:44] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:16:55] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:17:00] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:17:25] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:17:30] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:17:43] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:17:48] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:17:58] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:03] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:14] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:34] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:39] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:52] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:18:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:19:08] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:19:13] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:19:22] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:19:27] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:19:52] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:19:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:16] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:22] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:31] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:37] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:43] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:48] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:20:57] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:21:02] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:21:10] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:21:15] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:21:43] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:21:48] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:21:56] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:01] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:13] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:27] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:32] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:38] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:43] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:47] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:22:52] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:23:23] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:23:28] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:23:38] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:23:43] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:24:21] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:24:26] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:24:34] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:24:39] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:24:50] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:24:55] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:25:03] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:25:08] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:26:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:27:07] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:27:12] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:27:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:27:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:27:52] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:28:16] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:28:21] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:28:26] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:14] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:16] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:18] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:29] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:30:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:32:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:32:44] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:33:35] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:36:03] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:38:22] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:38:34] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:38:45] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:38:59] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:39:13] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:41:05] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:41:11] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:41:33] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:41:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:42:04] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:42:06] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:42:10] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:44:01] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:44:47] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:46:29] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:47:02] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:47:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:47:22] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:47:25] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:47:26] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:47:27] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:48:02] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:48:04] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:48:05] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:48:07] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:48:53] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:48:55] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:26] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:28] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:29] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:30] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:38] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:40] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:50:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:51:10] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:51:22] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:51:25] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:51:30] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:53:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:54:50] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:54:56] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:56:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:57:41] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:58:05] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:59:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:59:08] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:59:09] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:59:10] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:59:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 12:59:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:01:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:01:20] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:01:21] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:01:22] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:02:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:03:50] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:04:06] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:04:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:05:32] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:05:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:06:25] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:06:49] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:08:00] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:08:26] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:08:31] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:16:03] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:16:52] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:17:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:19:32] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:20:26] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:20:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:20:29] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:21:08] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:21:23] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:21:28] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:22:29] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:22:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:22:46] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:22:47] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:22:48] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:08] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:08] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:09] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:09] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:27] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:23:57] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:24:08] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:24:16] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:24:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:25:52] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:27:36] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:27:40] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:27:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:27:53] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 13:27:58] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:00:23] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:00:28] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:00:38] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:00:43] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:00:53] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:00:58] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:01:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:01:41] "GET /Biology/Chapter2/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 14:01:48] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:07:45] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:07:59] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:05] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:16] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:21] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:28] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:33] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:38] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:43] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:48] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:08:53] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:01] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:06] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:12] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:28] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:34] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:54] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:09:59] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:10:16] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:10:21] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:10:33] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:10:38] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:10:52] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:10:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:03] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:08] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:12] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:18] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:22] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:28] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:36] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:41] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:45] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:51] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:54] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:11:59] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:12:17] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:12:22] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:12:45] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:12:49] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:12:54] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:09] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:22] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:23] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:27] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:28] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:42] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:43] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:48] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:50] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:56] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:13:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:00] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:01] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:08] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:09] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:18] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:26] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:27] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:31] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:32] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:37] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:38] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:44] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:44] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:45] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:47] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:48] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:50] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:51] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:53] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:54] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:57] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:58] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:14:59] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:00] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:02] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:04] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:05] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:06] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:09] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:10] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:12] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:13] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:17] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:22] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:23] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:25] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:53] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:15:59] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:00] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:11] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:12] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:18] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:19] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:26] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:27] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:32] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:16:33] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:17:14] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:17:16] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:17:33] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:17:35] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:17:46] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:17:47] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:18:07] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:18:08] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:18:32] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:18:36] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:18:38] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:01] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:03] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:11] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:13] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:28] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:30] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:39] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:42] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:48] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:19:52] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:12] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:15] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:29] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:33] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:40] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:43] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:20:52] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:21:00] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:21:04] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:21:13] "POST /Biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 15:21:17] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:43:28] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:43:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:43:40] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:43:51] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:43:55] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:08] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:27] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:31] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:38] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:42] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:48] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:44:52] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:01] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:05] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:15] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:20] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:30] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:34] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:41] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:45] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:48] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 16:45:52] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:02:02] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:02:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:02:06] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:02:09] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:02:12] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:02:17] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:39:55] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Mar/2024 17:39:59] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:10] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:25] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:30] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:47] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:51] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:55] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:31:59] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:32:06] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:32:11] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:32:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:32:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:32:49] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:32:57] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:33:41] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:33:56] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:34:13] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:36:41] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:36:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:36:51] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:37:31] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\best\\Desktop\\New folder (2)\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:37:44] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:37:44] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:02] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:13] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:29] "[31m[1mGET /Biology/Chapter1/submit HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:35] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:38:42] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:41:10] "GET /Biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:41:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:41:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:41:36] "[32mGET /biology/Chapter1 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:41:36] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:42:38] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:42:39] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:42:46] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:42:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:42:54] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:43:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:43:29] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:16] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:24] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:28] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:33] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:37] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:43] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:47] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:44:59] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:03] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:08] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:12] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:32] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:36] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:39] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:43] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:45:57] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:01] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:08] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:12] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:22] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:26] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:34] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 19:46:39] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:33:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:33:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:34:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:34:40] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:34:53] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:34:57] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:08] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:12] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:26] "POST /SS1/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:31] "GET /SS1/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:42] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:47] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:35:51] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:01] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:05] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:18] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:22] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:34] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:38] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:55] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:36:59] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:43:02] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:43:12] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:43:17] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:43:25] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:43:29] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:44:46] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:45:04] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:45:23] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:45:27] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:46:33] "POST /biology/Chapter1/submit HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Mar/2024 20:46:37] "GET /biology/Chapter1/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 757-709-289

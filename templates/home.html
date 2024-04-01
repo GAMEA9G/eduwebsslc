@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212; /* Dark background color */
+            color: #fff; /* Text color */
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #333; /* Dark container background color */
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        p {
+            text-align: center;
+        }
+        .select-wrapper {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        select {
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #444;
+            color: #fff;
+            border: none;
+            width: 100%;
+            max-width: 300px;
+            font-size: 16px;
+            margin-bottom: 10px; /* Added margin between dropdown menus */
+        }
+        option {
+            background-color: #444;
+            color: #fff;
+        }
+        .start-button {
+            display: block;
+            text-align: center;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px;
+            background-color: #007bff;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+        .start-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to the Home Page</h1>
+        <p>Select a subject:</p>
+        <div class="select-wrapper">
+            <select id="subject-select" onchange="updateChapters()">
+                <option value="SS1">SS1</option>
+                <option value="biology">Biology</option>
+                <!-- Add more options for other subjects if needed -->
+            </select>
+        </div>
+        <p>Select a chapter:</p>
+        <div class="select-wrapper">
+            <select id="chapter-select">
+                <option value="Chapter1">Chapter 1</option>
+                <!-- Options will be dynamically populated based on the selected subject -->
+            </select>
+        </div>
+        <a href="#" class="start-button" onclick="startQuiz()">Start Quiz</a>
+    </div>
+
+    <script>
+        var chaptersBySubject = {
+            "SS1": ["Chapter1", "Chapter2", "Chapter3"],
+            "biology": ["Chapter1", "Chapter2", "Chapter3"],  // Example chapters for SS1
+            // Add more subjects and corresponding chapters as needed
+        };
+
+        function updateChapters() {
+            var subject = document.getElementById('subject-select').value;
+            var chapterSelect = document.getElementById('chapter-select');
+            chapterSelect.innerHTML = '';  // Clear existing options
+
+            var chapters = chaptersBySubject[subject];
+            chapters.forEach(function(chapter) {
+                var option = document.createElement('option');
+                option.value = chapter;
+                option.text = chapter.replace('Chapter', 'Chapter ');  // Add space between "Chapter" and number
+                chapterSelect.appendChild(option);
+            });
+        }
+
+        function startQuiz() {
+            var subject = document.getElementById('subject-select').value;
+            var chapter = document.getElementById('chapter-select').value;
+            window.location.href = "/" + subject + "/" + chapter;
+        }
+
+        // Initialize chapters for the default subject
+        updateChapters();
+    </script>
+</body>
+</html>
