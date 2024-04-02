@@ -123,11 +123,202 @@
                     "answer": "It led to the development of a federal system,"
                 }
             ],
+            "Chapter1-French-Society": [
+                {
+                    "question": "What were the kings were called ",
+                    "answer": "Bourbun"
+                },
+                {
+                    "question": "I am the State who said it",
+                    "answer": "Louis XIV"
+                },
+                {
+                    "question": "After me, the deluge",
+                    "answer": "XV"
+                },
+                {
+                    "question": "If the cant eat bread, let them eat caka",
+                    "answer": "Mary Antoinette"
+                },
+                {
+                    "question": "who were one the first Estate",
+                    "answer": "Clergy"
+                },
+                {
+                    "question": "who were one the Second Estate",
+                    "answer": "Nobility"
+                },
+                {
+                    "question": "who were one the Third Estate",
+                    "answer": "Commons"
+                },
+                {
+                    "question": "Which french society has held vast land",
+                    "answer": "First Estate clergy and Second Estate Nobility"
+                },
+                {
+                    "question": "Which society collected Tithe(TAX) from Farmers",
+                    "answer": "First Estate clergy"
+                },
+                {
+                    "question": "Which society Exempted from all taxes",
+                    "answer": "First Estate clergy and Second Estate Nobility"
+                },
+                {
+                    "question": "Which society controlled higher positions in administrative and military service",
+                    "answer": "First Estate clergy"
+                },
+                {
+                    "question": "Which society Led Luxurious life",
+                    "answer": "First Estate clergy"
+                },
+                {
+                    "question": "Which society Engaged in military service",
+                    "answer": "Second Estate Nobility"
+                },
+                {
+                    "question": "Which society collected varius taxes from Farmers",
+                    "answer": "Second Estate Nobility"
+                },
+                {
+                    "question": "Which society made Farmers work without wages",
+                    "answer": "Second Estate Nobility"
+                },
+                {
+                    "question": "What is the role of Third society on administration",
+                    "answer": "No role"
+                },
+                {
+                    "question": "Who paid Taille(tax) to the Goverment",
+                    "answer": "Peoples of Third Society"
+                },
+                {
+                    "question": "Who were the peoples in Third Estate",
+                    "answer": "Traiders,Writers,Lawyers,Bankers,farmers and craft men"
+                }
+            ],
             "Chapter1-French-Revolution": [
                 {
-                    "question": "How did the American War of Independence shape government structure?",
-                    "answer": "It led to the development of a federal system,"
+                    "question": "Who ridiculed the exploitation of Clergy and promoted rational thinking, ideals of equality and humanism",
+                    "answer": "Voitaire"
+                },
+                {
+                    "question": "Who said 'Man is born free,but Everywhere he is in chains' and declared that the people are the sovereign",
+                    "answer": "Rousseau"
+                },
+                {
+                    "question": "who encoraged democracy and the Republic suggessted divition of powes of goverment into legislature, executive and judiciary",
+                    "answer": "Montesquieu"
+                },
+                {
+                    "question": "What was the Tennis Court Oath?",
+                    "answer": "A pledge taken by the National Assembly."
+                },
+                {
+                    "question": "Who took the Tennis Court Oath?",
+                    "answer": "The National Assembly."
+                },
+                {
+                    "question": "When was the Tennis Court Oath taken?",
+                    "answer": "During the French Revolution."
+                },
+                {
+                    "question": "What did the Tennis Court Oath symbolize?",
+                    "answer": "The people's determination for political change."
+                },
+                {
+                    "question": "What was the purpose of the Tennis Court Oath?",
+                    "answer": "To establish a new constitution."
+                },
+                {
+                    "question": "What was the outcome of the Estates-General meeting?",
+                    "answer": "The Third Estate broke away and formed the National Assembly."
+                },
+                {
+                    "question": "What event is celebrated on July 14th in 1789 at France?",
+                    "answer": "The storming of the Bastille, a symbol of the French Revolution."
+                },
+                {
+                    "question": "What was the significance of the storming of the Bastille?",
+                    "answer": "It marked the beginning of the French Revolution and the end of the absolute monarchy."
+                },
+                {
+                    "question": "What was the Bastille?",
+                    "answer": "A fortress and prison in Paris"
+                },
+                {
+                    "question": "What were the reasons for the storming of the Bastille?",
+                    "answer": "To obtain weapons and gunpowder stored there and to challenge royal authority."
+                },
+                {
+                    "question": "How did the storming of the Bastille impact the French Revolution?",
+                    "answer": "It inspired further revolutionary action and signaled the people's rejection of the monarchy."
+                },
+                {
+                    "question": "What was the aftermath of the storming of the Bastille?",
+                    "answer": "The National Assembly took control of Paris and began drafting a new constitution."
+                },
+                {
+                    "question": "What significant event occurred in September 1792 during the French Revolution?",
+                    "answer": "The formation of the French First Republic."
+                },
+                {
+                    "question": "What were some results of the French Revolution?",
+                    "answer": "End of monarchy, rise of Napoleon, spread of revolutionary ideals."
+                },
+                {
+                    "question": "How did the French Revolution impact society?",
+                    "answer": "Abolished feudal privileges, introduced legal equality, fueled nationalism."
+                },
+                {
+                    "question": "What were long-term effects of the French Revolution?",
+                    "answer": "Spread of democratic ideals, rise of nationalism, transformed European politics."
+                },
+                {
+                    "question": "What were global consequences of the French Revolution?",
+                    "answer": "Inspired nationalist movements, toppled monarchies, spread democracy."
+                },
+                {
+                    "question": "How did the French Revolution influence political thought?",
+                    "answer": "Introduced liberty, equality, fraternity as modern democratic principles."
+                },
+                {
+                    "question": "What role did the French Revolution play in European history?",
+                    "answer": "Reshaped politics, led to nationalism, formed modern nation-states."
+                },
+                {
+                    "question": "What were some reforms implemented by Napoleon?",
+                    "answer": "Legal and educational reforms, Napoleonic Code, centralized government."
+                },
+                {
+                    "question": "How did Napoleon impact French society?",
+                    "answer": "Introduced legal equality, religious tolerance, established merit-based promotion."
+                },
+                {
+                    "question": "What were the main changes brought about by Napoleon's reforms?",
+                    "answer": "Uniform legal system, secular education, efficient administration."
+                },
+                {
+                    "question": "What were Napoleon's contributions to governance?",
+                    "answer": "Centralized power, streamlined bureaucracy, codified laws."
+                },
+                {
+                    "question": "who made farmers owners of the land",
+                    "answer": "Napolian"
+                },
+                {
+                    "question": "Who exercised states contol over the clergy",
+                    "answer": "Napolian"
+                },
+                {
+                    "question": "Who Formed sinking fund ",
+                    "answer": "Napolian"
+                },
+                {
+                    "question": "Who EStablished Bank of France and construct road and prepared code of law",
+                    "answer": "Napolian"
                 }
+
             ]
         },
         "biology": {
