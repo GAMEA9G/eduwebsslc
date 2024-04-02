@@ -318,7 +318,95 @@
                     "question": "Who Established Bank of France and construct road and prepared code of law",
                     "answer": "Napolian"
                 }
+                
+            ],
+            "Chapter1-Latin-America": [
+                {
+                    "question": "Who propagated their language, religion and customs",
+                    "answer": "the spanish and portuguese "
+                },
+                {
+                    "question": "what is style of houses and churches in latin America",
+                    "answer": "spanish Style"
+                },
+                {
+                    "question": "schools were established for imparting what system of education",
+                    "answer": "spanish system of education"
+                },
+                {
+                    "question": "what contry established houses , churches and school",
+                    "answer": "spanish"
+                },
+                {
+                    "question": "what method of farming is introduced",
+                    "answer": "spanish method of farming"
+                },
+                {
+                    "question": "what spread from Europeans to the latin Americans",
+                    "answer": "diseases"
+                },
+                {
+                    "question": "what diseases spread from what peoples to the latin Americans",
+                    "answer": "Europians"
+                },
+                {
+                    "question": "Racial discrimination was enforced towards the what peoples",
+                    "answer": "natives of latin america"
+                },
+                {
+                    "question": "whom looted the resourses and welth of the latin american people",
+                    "answer": "Europians"
+                },
+                {
+                    "question": "They enslaved what peoples to work",
+                    "answer": "natives of latin america"
+                }
 
+
+
+            ],
+            "Chapter1-Russian-revolution": [
+                {
+                    "question": "What wre the two revolutions in russia",
+                    "answer": "February Revolution and octobar revolution"
+                },
+                {
+                    "question": "the kings of russia is called",
+                    "answer": "Tzar"
+                },
+                {
+                    "question": "What were the difficulties of farmers in russia",
+                    "answer": "high taxation"
+                },
+                {
+                    "question": "What were the difficulties of factory workers in russia",
+                    "answer": "over time work"
+                },
+                {
+                    "question": "what led to formatin of social democratic workers party",
+                    "answer": "to resove difficulty for farmers and factory workers"
+                },
+                {
+                    "question": "social democratic workers party split into two what are they",
+                    "answer": "Mensheviks (minority) bolsheviks(majority)"
+                },
+                {
+                    "question": "Who is the leader of mensheviks",
+                    "answer": "Alexander Kerensky"
+                },
+                {
+                    "question": "Who is the leader of Bolsheviks",
+                    "answer": "lenin"
+                },
+                {
+                    "question": "What party led february Revolution",
+                    "answer": "Mensheviks"
+                },
+                {
+                    "question": "What party led October Revolution",
+                    "answer": "Bolsheviks"
+                }
+                
             ]
         },
         "biology": {
